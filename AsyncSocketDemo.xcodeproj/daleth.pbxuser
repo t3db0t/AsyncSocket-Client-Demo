@@ -1,0 +1,401 @@
+// !$*UTF8*$!
+{
+	12F1DFFE114558ED001BBA54 /* AsyncSocketDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = YES;
+				name = NSZombieEnabled;
+				value = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AsyncSocketDemo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$fs = 1;
+			$gs = 1;
+			$ss = 1;
+		};
+	};
+	12F1E009114558F0001BBA54 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	12F1E00A114558F0001BBA54 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	12F1E00C11455914001BBA54 /* AsyncSocket.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 6942}}";
+			sepNavSelRange = "{7369, 4}";
+			sepNavVisRange = "{7054, 903}";
+		};
+	};
+	12F1E00D11455914001BBA54 /* AsyncSocket.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1184, 41626}}";
+			sepNavSelRange = "{17615, 0}";
+			sepNavVisRange = "{17388, 510}";
+		};
+	};
+	12F1E0701145638B001BBA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12F1E00C11455914001BBA54 /* AsyncSocket.h */;
+		name = "AsyncSocket.h: 183";
+		rLen = 4;
+		rLoc = 7369;
+		rType = 0;
+		vrLen = 903;
+		vrLoc = 7054;
+	};
+	12F1E160114575CD001BBA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* AsyncSocketDemo_Prefix.pch */;
+		name = "AsyncSocketDemo_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 199;
+		vrLoc = 0;
+	};
+	12F1E161114575CD001BBA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 17;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	12F1E162114575CD001BBA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12F1E163114575CD001BBA54 /* UIApplication.h */;
+		name = "UIApplication.h: 198";
+		rLen = 0;
+		rLoc = 10201;
+		rType = 0;
+		vrLen = 3122;
+		vrLoc = 9097;
+	};
+	12F1E163114575CD001BBA54 /* UIApplication.h */ = {
+		isa = PBXFileReference;
+		name = UIApplication.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h;
+		sourceTree = "<absolute>";
+	};
+	12F1E1B011457FBD001BBA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12F1E00D11455914001BBA54 /* AsyncSocket.m */;
+		name = "AsyncSocket.m: 574";
+		rLen = 0;
+		rLoc = 17615;
+		rType = 0;
+		vrLen = 1041;
+		vrLoc = 17202;
+	};
+	12F1E24111458BAC001BBA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2899E5210DE3E06400AC0155 /* AsyncSocketDemoViewController.xib */;
+		name = "AsyncSocketDemoViewController.xib: 287";
+		rLen = 14;
+		rLoc = 12588;
+		rType = 0;
+		vrLen = 1497;
+		vrLoc = 11747;
+	};
+	12F1E26511458DF4001BBA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AsyncSocketDemoAppDelegate.h */;
+		name = "AsyncSocketDemoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 519;
+		vrLoc = 0;
+	};
+	12F1E26611458DF4001BBA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AsyncSocketDemoAppDelegate.m */;
+		name = "AsyncSocketDemoAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 548;
+		rType = 0;
+		vrLen = 650;
+		vrLoc = 0;
+	};
+	12F1E3841145A202001BBA54 /* AsyncSocketDemoViewController.m:81 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* AsyncSocketDemoViewController.m */;
+		functionName = "-touchPauseButton:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 81;
+		location = AsyncSocketDemo;
+		modificationTime = 289778269.204025;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	12F1E39D1145A32C001BBA54 /* AsyncSocketDemoViewController.m:51 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* AsyncSocketDemoViewController.m */;
+		functionName = "-onSocket:didConnectToHost:port:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 51;
+		location = AsyncSocketDemo;
+		modificationTime = 289778269.20526;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	12F1E39F1145A364001BBA54 /* AsyncSocketDemoViewController.m:65 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* AsyncSocketDemoViewController.m */;
+		functionName = "-onSocket:didReadData:withTag:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 65;
+		location = AsyncSocketDemo;
+		modificationTime = 289778275.981392;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	12F1E3B71145A42C001BBA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AsyncSocketDemoViewController.h */;
+		name = "AsyncSocketDemoViewController.h: 14";
+		rLen = 0;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 532;
+		vrLoc = 0;
+	};
+	12F1E3D01145A75B001BBA54 /* AsyncSocketDemoViewController.m:71 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* AsyncSocketDemoViewController.m */;
+		functionName = "-sendPause";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 71;
+		location = AsyncSocketDemo;
+		modificationTime = 289778269.207344;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	12F1E3E71145A9F2001BBA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AsyncSocketDemoViewController.m */;
+		name = "AsyncSocketDemoViewController.m: 91";
+		rLen = 0;
+		rLoc = 2669;
+		rType = 0;
+		vrLen = 483;
+		vrLoc = 2057;
+	};
+	12F1E3EA1145D2F4001BBA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AsyncSocketDemoViewController.m */;
+		name = "AsyncSocketDemoViewController.m: 24";
+		rLen = 0;
+		rLoc = 632;
+		rType = 0;
+		vrLen = 1042;
+		vrLoc = 590;
+	};
+	1D3623240D0F684500981E51 /* AsyncSocketDemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {889, 471}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 519}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AsyncSocketDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {889, 471}}";
+			sepNavSelRange = "{548, 0}";
+			sepNavVisRange = "{0, 650}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AsyncSocketDemo */ = {
+		activeExec = 0;
+		executables = (
+			12F1DFFE114558ED001BBA54 /* AsyncSocketDemo */,
+		);
+	};
+	2899E5210DE3E06400AC0155 /* AsyncSocketDemoViewController.xib */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4107, 7202}}";
+			sepNavSelRange = "{12588, 14}";
+			sepNavVisRange = "{11747, 1497}";
+		};
+	};
+	28D7ACF60DDB3853001CB0EB /* AsyncSocketDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1184, 325}}";
+			sepNavSelRange = "{303, 0}";
+			sepNavVisRange = "{0, 394}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AsyncSocketDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {889, 1560}}";
+			sepNavSelRange = "{632, 0}";
+			sepNavVisRange = "{590, 1042}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 12F1DFFE114558ED001BBA54 /* AsyncSocketDemo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AsyncSocketDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AsyncSocketDemo */,
+		);
+		breakpoints = (
+			12F1E3841145A202001BBA54 /* AsyncSocketDemoViewController.m:81 */,
+			12F1E39D1145A32C001BBA54 /* AsyncSocketDemoViewController.m:51 */,
+			12F1E39F1145A364001BBA54 /* AsyncSocketDemoViewController.m:65 */,
+			12F1E3D01145A75B001BBA54 /* AsyncSocketDemoViewController.m:71 */,
+		);
+		codeSenseManager = 12F1E00A114558F0001BBA54 /* Code sense */;
+		executables = (
+			12F1DFFE114558ED001BBA54 /* AsyncSocketDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					599,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					711,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289757421;
+			PBXWorkspaceStateSaveDate = 289757421;
+		};
+		perUserProjectItems = {
+			12F1E0701145638B001BBA54 /* PBXTextBookmark */ = 12F1E0701145638B001BBA54 /* PBXTextBookmark */;
+			12F1E160114575CD001BBA54 /* PBXTextBookmark */ = 12F1E160114575CD001BBA54 /* PBXTextBookmark */;
+			12F1E161114575CD001BBA54 /* PBXTextBookmark */ = 12F1E161114575CD001BBA54 /* PBXTextBookmark */;
+			12F1E162114575CD001BBA54 /* PBXTextBookmark */ = 12F1E162114575CD001BBA54 /* PBXTextBookmark */;
+			12F1E1B011457FBD001BBA54 /* PBXTextBookmark */ = 12F1E1B011457FBD001BBA54 /* PBXTextBookmark */;
+			12F1E24111458BAC001BBA54 /* PBXTextBookmark */ = 12F1E24111458BAC001BBA54 /* PBXTextBookmark */;
+			12F1E26511458DF4001BBA54 /* PBXTextBookmark */ = 12F1E26511458DF4001BBA54 /* PBXTextBookmark */;
+			12F1E26611458DF4001BBA54 /* PBXTextBookmark */ = 12F1E26611458DF4001BBA54 /* PBXTextBookmark */;
+			12F1E3B71145A42C001BBA54 /* PBXTextBookmark */ = 12F1E3B71145A42C001BBA54 /* PBXTextBookmark */;
+			12F1E3E71145A9F2001BBA54 /* PBXTextBookmark */ = 12F1E3E71145A9F2001BBA54 /* PBXTextBookmark */;
+			12F1E3EA1145D2F4001BBA54 /* PBXTextBookmark */ = 12F1E3EA1145D2F4001BBA54 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 12F1E009114558F0001BBA54 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {932, 471}}";
+			sepNavSelRange = "{279, 17}";
+			sepNavVisRange = "{0, 361}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* AsyncSocketDemo_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {932, 471}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 199}";
+		};
+	};
+}
